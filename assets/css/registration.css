@@ -79,7 +79,4 @@ table{
 	box-shadow: 2px 2px black;
 	font-family:Abril Fatface;
 }
-tr:nth-child(odd)
-{
-	box-shadow: 5px 5px red;
-}
+
